@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "Java_962cf32e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PolygonArea",
+            "request": "launch",
+            "mainClass": "PolygonArea",
+            "projectName": "Java_962cf32e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinaryToDec2",
+            "request": "launch",
+            "mainClass": "BinaryToDec2",
+            "projectName": "Java_962cf32e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - myClass",
+            "request": "launch",
+            "mainClass": "myClass",
+            "projectName": "Java_962cf32e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorldApp2",
+            "request": "launch",
+            "mainClass": "HelloWorldApp2",
+            "projectName": "Java_962cf32e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyFirstJavaProgram",
+            "request": "launch",
+            "mainClass": "MyFirstJavaProgram",
+            "projectName": "Java_962cf32e"
+        }
+    ]
+}
